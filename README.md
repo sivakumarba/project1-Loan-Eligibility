@@ -38,3 +38,9 @@ Problem Statement :
                  8.  Make predictions on the test dataset
 
                  9. Conclusion
+
+major impact  with target variable vs independent variable 
+
+<seaborn.axisgrid.FacetGrid at 0x223cd7cd2b0>
+
+
