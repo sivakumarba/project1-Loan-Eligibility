@@ -17,7 +17,7 @@ Problem Statement :
 
                  *   NO: if the loan is not eligible
 
-       So using the training dataset we will train our model and try to predict our target column that is “Loan Status” on the test  dataset.
+       So using the training dataset we will train our model and try to predict our target column that is “Loan Status” on the test dataset.
 
      Table of Contents:
 
@@ -38,9 +38,9 @@ Problem Statement :
                  8.  Make predictions on the test dataset
 
                  9. Conclusion
-                 
-                 
-some important pictorial representation of this project:
+  
+  
+some important pictorial  representation project: 
 
 correlation matrix of data set :
 
@@ -54,5 +54,8 @@ major impact  with target variable:
 
 conclusion:
      
-          After the Final Submission of test data, my accuracy score In logistic regression was 78.86%, In support vector machine was 0.7886178861788617, In Random forest was 0.8965390792417285. In the model,credit history is the most important affecting factor to get loan eligibility. Amazingly random forest algorithm worked better than all other models. 
+          After the Final Submission of test data, my accuracy score In logistic regression was 78.86%.
+          In support vector machine was 0.7886178861788617.
+          In Random forest was 0.8965390792417285. In the model,credit history is the most important affecting factor to get loan eligibility.
+          Amazingly random forest algorithm worked better than all other models. 
 
