@@ -52,5 +52,10 @@ major impact  with target variable:
 
 conclusion:
      
-          After the Final Submission of test data, my accuracy score In logistic regression was 78.86%, In support vector machine was 0.7886178861788617, In Random forest was 0.8965390792417285. In the model,credit history is the most important affecting factor to get loan eligibility. Amazingly random forest algorithm worked better than all other models. 
+          After the Final Submission of test data, my accuracy score In logistic regression was 78.86%,
+          In support vector machine was 0.7886178861788617,
+          In Random forest was 0.8965390792417285. 
+          In the model,credit history is the most important affecting factor to get loan eligibility. 
+          Amazingly random forest algorithm worked better than all other models.
+          
 
