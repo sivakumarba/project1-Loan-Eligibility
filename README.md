@@ -44,14 +44,13 @@ correlation matrix of data set :
 
 ![image](https://user-images.githubusercontent.com/117625658/211555251-46a54cdb-234c-4896-87a6-3256374bdea9.png)
 
+major impact  with target variable:
 
+(loan status) vs independent variable(credit history) 
 
-
-
-major impact  with target variable(loan status) vs independent variable(credit history) 
 ![image](https://user-images.githubusercontent.com/117625658/211556499-912c14b0-71f3-4a52-82d6-a5c2bc3a92d5.png)
 
-
-
-
+conclusion:
+     
+          After the Final Submission of test data, my accuracy score In logistic regression was 78.86%, In support vector machine was 0.7886178861788617, In Random forest was 0.8965390792417285. In the model,credit history is the most important affecting factor to get loan eligibility. Amazingly random forest algorithm worked better than all other models. 
 
