@@ -49,6 +49,7 @@ correlation matrix of data set :
 
 
 major impact  with target variable vs independent variable 
+![image](https://user-images.githubusercontent.com/117625658/211556110-d5bc1b1d-7b41-4a6a-8670-ad7f96573bbd.png)
 
 
 
