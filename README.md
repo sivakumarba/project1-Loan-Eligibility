@@ -48,7 +48,7 @@ correlation matrix of data set :
 
 
 
-major impact  with target variable vs independent variable 
+major impact  with target variable(loan status) vs independent variable(credit history) 
 ![image](https://user-images.githubusercontent.com/117625658/211556499-912c14b0-71f3-4a52-82d6-a5c2bc3a92d5.png)
 
 
