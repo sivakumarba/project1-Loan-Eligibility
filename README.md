@@ -39,6 +39,12 @@ Problem Statement :
 
                  9. Conclusion
 
+![image](https://user-images.githubusercontent.com/117625658/211553661-0f09a14a-3b35-4b78-ae9d-9a69426e9f28.png)
+
+
+
+
+
 major impact  with target variable vs independent variable 
 
 <seaborn.axisgrid.FacetGrid at 0x223cd7cd2b0>
